@@ -1,1 +1,1 @@
-let t = Insomnia.t () in t#allow_sleep_again
+let t = Cordova_insomnia.t () in t#allow_sleep_again
