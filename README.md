@@ -6,10 +6,6 @@
 Binding to
 [Insomnia](https://github.com/EddyVerbruggen/Insomnia-PhoneGap-Plugin)
 
-[Example
-application](https://github.com/dannywillems/ocaml-cordova-plugin-insomnia-example).
-**Not developed**
-
 ## What does cordova-plugin-insomnia do ?
 
 ```
